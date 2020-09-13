@@ -1,1 +1,3 @@
-First Chess
+my first Chess...
+I hope to improve its features and design
+i know theres too much divs
